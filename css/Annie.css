@@ -1041,8 +1041,8 @@ template {
 }
 footer {
   font-family: "Times New Roman", Times, serif;
-  font-size: 1rem;
-  line-height: 2;
+  font-size: 0.7rem;
+  line-height: 1.5;
   color: #555;
   background-color: #222;
   padding-top: 2rem;
@@ -1079,7 +1079,7 @@ header .h-body {
   width: 100%;
 }
 header .h-body .motto {
-  font-size: 2rem;
+  font-size: 1.5rem;
   line-height: 2;
   text-align: center;
   width: 60%;
